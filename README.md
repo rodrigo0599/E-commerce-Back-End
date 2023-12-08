@@ -45,7 +45,7 @@ This project focuses on creating a robust backend for an e-commerce website, ena
    - Open Insomnia on your local machine.
    - Use it to send requests to your server and explore different functionalities.
 
-   Tutorial video here: [🎬](https://drive.google.com/file/d/1PsFJEluLRrF0MnGzbvoh37Th8YhnX8rh/view?usp=sharing)
+   Tutorial video here: [link video](https://drive.google.com/file/d/1PsFJEluLRrF0MnGzbvoh37Th8YhnX8rh/view?usp=sharing)
 
 ## License
 
